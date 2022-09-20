@@ -1,2 +1,1 @@
-# Least_Time_Path_Finder
-Dikstra's Algorithm Application
+# Least Time Path Finder Apllication
